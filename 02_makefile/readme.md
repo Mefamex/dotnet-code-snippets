@@ -1,5 +1,15 @@
 # 02 - Makefile Rehberi
 
+> *author*: [Mefamex](https://github.com/Mefamex) <br>
+> *created*: 2026-03-15 <br>
+> *updates*: 2026-03-15 : README sablonu eklendi
+
+ust dizine don : [dotnet-code-snippets](../README.md)
+
+<hr><br><br>
+
+
+
 Bu klasordeki `Makefile`, sik kullanilan .NET komutlarini kisaltmak icin hazirlanmistir.
 
 ## 1) Gereksinim

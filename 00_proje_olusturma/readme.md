@@ -4,7 +4,11 @@
 > *created*: 2026-03-15 <br>
 > *updates*: 2026-03-15 : README sablonu eklendi
 
-[ust dizine don : [dotnet-code-snippets]](../README.md)
+ust dizine don : [dotnet-code-snippets](../README.md)
+
+<hr><br><br>
+
+
 
 > Bu rehber, sifirdan temiz bir .NET Console projesi olusturmak icindir.
 

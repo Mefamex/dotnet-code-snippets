@@ -1,5 +1,15 @@
 # 01 - Build Etme ve Calistirma
 
+> *author*: [Mefamex](https://github.com/Mefamex) <br>
+> *created*: 2026-03-15 <br>
+> *updates*: 2026-03-15 : README sablonu eklendi
+
+ust dizine don : [dotnet-code-snippets](../README.md)
+
+<hr><br><br>
+
+
+
 Bu rehberde proje temizleme, derleme ve calistirma adimlari anlatilir.
 
 ## 1) Temel komutlar
