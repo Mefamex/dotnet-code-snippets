@@ -32,8 +32,8 @@ Kisa aciklama:
 
 Bu klasorde iki script vardir:
 
-- `run.sh` (Linux/macOS)
-- `run.bat` (Windows)
+- [run.sh](run.sh) (Linux/macOS)
+- [`run.bat`](run.bat) (Windows)
 
 Ikisi de ayni akisla calisir:
 
